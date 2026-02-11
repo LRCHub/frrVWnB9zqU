@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カグラ",
+  "base_artist": "indigo la End",
+  "createdAt": "2026-02-11T05:06:03.423556Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カグラ",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_カグラ_indigo_la_End.txt"
+    }
+  ]
+}
